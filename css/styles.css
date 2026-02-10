@@ -1,0 +1,154 @@
+body {
+  font-family: Roboto, sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  display: block;
+}
+
+.page-header {
+  background-color: #ffffff;
+  padding: 24px 16px;
+}
+
+.logo {
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
+}
+
+.nav-list {
+  margin-top: 16px;
+}
+
+.nav-link {
+  font-weight: 500;
+  color: #2e2f42;
+}
+
+.contacts {
+  margin-top: 16px;
+  font-style: normal;
+}
+
+.contact-link {
+  color: #434455;
+}
+
+.hero {
+  background-color: #2e2f42;
+  padding: 188px 0;
+  text-align: center;
+}
+
+.hero-title {
+  color: #ffffff;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  margin: 0 0 48px 0;
+}
+
+.hero-button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  border: none;
+  padding: 16px 32px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.section-title {
+  color: #2e2f42;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  margin: 96px 0 48px 0;
+}
+
+.section-text {
+  color: #434455;
+}
+
+.features-list {
+  padding: 0 16px;
+}
+
+.feature-title {
+  color: #2e2f42;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  margin: 0 0 8px 0;
+}
+
+.feature-card {
+  margin-bottom: 32px;
+}
+
+.team {
+  background-color: #f4f4fd;
+  padding: 96px 0;
+}
+
+.team-list {
+  padding: 0 16px;
+}
+
+.team-card {
+  background-color: #ffffff;
+  margin-bottom: 32px;
+  padding-bottom: 16px;
+}
+
+.member-name {
+  color: #2e2f42;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  margin: 16px 0 8px 0;
+}
+
+.member-role {
+  text-align: center;
+  margin: 0;
+}
+
+.portfolio-list {
+  padding: 0 16px 96px 16px;
+}
+
+.portfolio-card {
+  margin-bottom: 32px;
+}
+
+.page-footer {
+  background-color: #2e2f42;
+  padding: 96px 16px;
+}
+
+.footer-logo {
+  color: #4d5ae5;
+}
+
+.copyright-text {
+  color: #ffffff;
+  max-width: 264px;
+  margin-top: 16px;
+}
